@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "QR_CODE_EXTENSION",
+    "description": "qr code displays on screen",
+    "version": "1.0",
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "qrcode_icon.png"
+    }
+  }
+  
